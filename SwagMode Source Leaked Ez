@@ -116,7 +116,7 @@ local Frame_2 = Instance.new("Frame")
 local CrashServerButton = Instance.new("TextButton")
 
 --Properties:
-Swagmode.Name = "Swagmode Anti Premium"
+Swagmode.Name = "Swagmode v2"
 Swagmode.Parent = game.CoreGui
 Swagmode.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -190,7 +190,7 @@ Swagmode_2.BackgroundTransparency = 1.000
 Swagmode_2.Position = UDim2.new(0.045161292, 0, 0, 0)
 Swagmode_2.Size = UDim2.new(0, 115, 0, 34)
 Swagmode_2.Font = Enum.Font.GothamBlack
-Swagmode_2.Text = "Anti Premium"
+Swagmode_2.Text = "Swagmode v2"
 Swagmode_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 Swagmode_2.TextSize = 20.000
 
